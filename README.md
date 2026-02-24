@@ -7,7 +7,7 @@
 
 ---
 
-# ✨ Typing Animation
+# ✨ WhoAmI
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+DevOps;Cloud+%7C+Docker+%7C+Kubernetes;Problem+Solver+%7C+DSA+Enthusiast" />
